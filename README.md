@@ -18,7 +18,7 @@
 1. Imported all the Libraries
 2. Loaded the [Titanic_Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 3. Printing the number of rows and columns
-4. Check for missing values and visualize them using heatmap
+4. Check for the missing values and visualize them using heatmap
 5. Cleaned the dataset
 
 **Contact**
